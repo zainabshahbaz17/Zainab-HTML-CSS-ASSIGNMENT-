@@ -1,0 +1,55 @@
+body {
+    background-color: #c7d6e2;
+    font-family: Times New Roman;
+    margin: 20px;
+}
+
+#heading {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: "Times New Roman";
+}
+
+.sub {
+    color: black;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+h1, h2 {
+    border: none;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+}
+
+.highlight {
+    color: purple;
+    font-weight: bold;
+}
+
+img {
+    border: 3px solid black;
+    width: 300px;
+    display: block;
+    margin: 10px auto;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+ol {
+    padding-left: 20px;
+    background: none;
+    border: none;
+}
